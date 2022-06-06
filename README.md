@@ -64,6 +64,7 @@ trello
 - useEffect를 사용한 setInterval 설정으로 5초마다 carousel 화면 전환가능하게 구현
 ```
 
+## 작업한 부분
 **footer**
 
 ```
@@ -77,6 +78,8 @@ trello
 -  useLocation을 활용해 location.search 값이 존재할 경우 &로, 존재하지 않을 경우 ?로 각 query parameter를 변경하여 카테고리 별 필터링 기능 구
 -  URLSearchParams 인터페이스를 사용하여 Navbar에서 menu query parameter를 변경했을 시에 product list 컴포넌트의 title이 value값으로 변경되게 구현
 ```
+
+---
 
 **회원가입/로그인**
 ```
